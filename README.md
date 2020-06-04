@@ -15,11 +15,11 @@ To reach this goal we should:
 
 consists of: overall product rating, user id, user name, time of review (standard and unix), review verification status, review summary, review text, number of votes on review usefullness, product id, product code, product style, product image, product rating from a particular user.
 
--```test data```
+- ```test data```
 
 consists of: user id, user name, time of review (standard and unix), review verification status, number of votes on review usefullness, product id, product code, product style, product image.
 
--```metadata```
+- ```metadata```
 
 ## Results
 
