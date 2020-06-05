@@ -21,12 +21,16 @@ consists of: user id, user name, time of review (standard and unix), review veri
 
 - ```metadata```
 
+consists of: list of categories for the product and its main category, product title, description, brand, rank, price, product code, corresponding product codes, images. 
+
 ## Results
 
 In this rather challenging project our team tried several different approaches, including SVD matrix factorization with Surprise, custom and ready to use deep-learning models. Unfortunately, none of them performed better than a baseline LightFM model with some improvements.
 And still there is much to learn on the subject.
 
-Prototype: https://lit-escarpment-44576.herokuapp.com/
+To show the performance of the final model we created the prototype, that you can try here: 
+
+https://lit-escarpment-44576.herokuapp.com/
 
 
 
